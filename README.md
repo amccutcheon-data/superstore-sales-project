@@ -10,6 +10,7 @@ SQL & Power BI dashboard, analyzing revenue & customer trends.
 - Revenue by Regions
 - Top 6 Best-Selling Products
 - Top 10 Customers By Revenue
+- Top 3 Categorys By Revenue
 # Dataset
 - Time period: 2011-2014
 - 5,000 customers
