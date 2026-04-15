@@ -15,10 +15,20 @@ SQL & Power BI dashboard, analyzing revenue & customer trends.
 - 5,000 customers
 - Sample Retail dataset
 # Dashboard Preview
-<img width="1042" height="594" alt="Power BI Dashboard Customer   Sales Insight" src="https://github.com/user-attachments/assets/3de3d6e7-0b38-4dfb-b8e1-c608e8c3f1a3" />
+
+
+
+<img width="682" height="400" alt="Dashboard Power BI " src="https://github.com/user-attachments/assets/2a6c33fc-3b5a-45d8-a430-70d60706bcdf" />
+
+
 
 # Files Include
-- Power BI Dashboard
+- Power BI Dashboard Customer & Revenue Insight
+  (takes 2 to 3 minutes to load)
+  (Please go to files)
+
+
+  
 - Dateset Raw/Clean
 - SQL Queries Used
 - SQL Input cvs
