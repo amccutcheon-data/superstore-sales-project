@@ -23,3 +23,6 @@ SQL & Power BI dashboard, analyzing revenue & customer trends.
 - SQL Queries Used
 - SQL Input cvs
 - Power BI Input
+
+  
+
