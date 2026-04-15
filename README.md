@@ -33,7 +33,6 @@ SQL & Power BI dashboard, analyzing revenue & customer trends.
 - Dateset Raw/Clean
 - SQL Queries Used
 - SQL Input cvs
-- Power BI Input
 
   
 
