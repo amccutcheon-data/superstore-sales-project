@@ -16,6 +16,7 @@ SQL & Power BI dashboard, analyzing revenue & customer trends.
 - Sample Retail dataset
 # Dashboard Preview
 <img width="1042" height="594" alt="Power BI Dashboard Customer   Sales Insight" src="https://github.com/user-attachments/assets/3de3d6e7-0b38-4dfb-b8e1-c608e8c3f1a3" />
+
 # Files Include
 - Power BI Dashboard
 - Dateset Raw/Clean
