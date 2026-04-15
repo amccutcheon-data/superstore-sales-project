@@ -1,0 +1,1 @@
+SELECT sum(profit) as total_profit FROM superstore_data.sql_raw_store;

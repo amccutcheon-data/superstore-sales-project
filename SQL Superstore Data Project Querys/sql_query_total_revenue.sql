@@ -1,0 +1,1 @@
+SELECT sum(revenue) as total_revenue FROM superstore_data.sql_raw_store;
